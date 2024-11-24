@@ -1,5 +1,5 @@
 // import logo from './logo.svg';
-import Dashboard from './pages/Dashboard';
+import Dashboard from './pages/Dashboard/DashboardPage';
 import Header from './components/Header/Header'
 import "bootstrap/dist/css/bootstrap.min.css"
 import './App.css';
