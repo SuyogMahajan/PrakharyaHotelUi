@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PrakharyHotelUi/static/css/main.1e0aa012.css",
+    "main.js": "/PrakharyHotelUi/static/js/main.8bd8ef5b.js",
+    "static/js/453.ba9d2b43.chunk.js": "/PrakharyHotelUi/static/js/453.ba9d2b43.chunk.js",
+    "index.html": "/PrakharyHotelUi/index.html",
+    "main.1e0aa012.css.map": "/PrakharyHotelUi/static/css/main.1e0aa012.css.map",
+    "main.8bd8ef5b.js.map": "/PrakharyHotelUi/static/js/main.8bd8ef5b.js.map",
+    "453.ba9d2b43.chunk.js.map": "/PrakharyHotelUi/static/js/453.ba9d2b43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e0aa012.css",
+    "static/js/main.8bd8ef5b.js"
+  ]
+}
