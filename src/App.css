@@ -530,6 +530,66 @@ color: #5D30B7 !important;
 }
 
 .card {
-  margin:15px 0px;
+  margin:20px 0px;
+  border-radius: 10px;
+}
 
+.card .hd {
+  font-size: 18px;
+  font-weight: bold;
+  color: #403e57;
+}
+
+.cardFilters .col-md-3 h4{
+  font-size: 16px;
+  font-weight: 800;
+  text-transform: capitalize;
+  color: #403e57;
+}
+
+.table .thead-dark th{
+  background-color: #5D30B7 !important;
+  color: white;
+  /* border-color: black; */
+  font-size: 14px !important;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: #403e57;
+}
+
+.table tbody td {
+  font-size: 14px !important;
+  font-weight: 500;
+  color: #403e57;
+}
+
+
+.table tbody .actions button {
+  min-width: 34px !important;
+  width: 34px !important;
+  height: 34px !important;
+  margin: 0px 3px;
+}
+
+.table tbody .actions .secondary {
+  background: rgba(203,60,231,0.2) !important;
+}
+
+.table tbody .actions .success {
+  background: rgba(26,159,83,0.2) !important;
+}
+
+.table tbody .actions .error {
+  background: rgba(241,17,51,0.2) !important;
+}
+
+table.v-align td{
+  vertical-align:middle !important;
+  text-align: center;
+}
+
+.table td .old , .table td .new{
+  width: 100%;
+  display: block;
 }
